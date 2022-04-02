@@ -1,1 +1,9 @@
 터미널과 깃허브데스크탑 중에 어떤 게 더 나은지~~?
+
+git pull upstream main
+
+git add .
+git commit -m "message"
+git push origin main
+
+>>> pr >> merge 
